@@ -1,3 +1,3 @@
 # VisioStreaming
 
-Go to the folder "visio" and run "npm install" then "npm run"
+Go to the folder "visio" and run "npm install" then "npm start"
